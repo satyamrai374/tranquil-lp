@@ -1,6 +1,6 @@
 <?php
 $page_title = "Free Consultation - Tranquil Minds Mental Health";
-$page_description = "Schedule a free consultation for Neurostar TMS therapy at Tranquil Minds Mental Health. Drug-free, non-invasive treatment for depression & anxiety in Monticello, MN.";
+$page_description = "Schedule a free consultation for Neurostar® TMS therapy at Tranquil Minds Mental Health. Drug-free, non-invasive treatment for depression & anxiety in Monticello, MN.";
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -164,7 +164,7 @@ $page_description = "Schedule a free consultation for Neurostar TMS therapy at T
                         </h1>
 
                         <p class="text-base md:text-lg text-white/90 leading-relaxed max-w-2xl font-medium">
-                            If depression or anxiety has been holding you back, Neurostar TMS offers an FDA-cleared, non-medication, non-invasive path to long-lasting relief.
+                            If depression or anxiety has been holding you back, Neurostar® TMS offers an FDA-cleared, non-medication, non-invasive path to long-lasting relief.
                         </p>
                     </div>
 
@@ -321,7 +321,7 @@ $page_description = "Schedule a free consultation for Neurostar TMS therapy at T
                     <span class="text-primary font-bold tracking-widest uppercase text-xs">Healing Spectrum</span>
                     <h2 class="text-3xl md:text-5xl font-heading text-primary mt-2">Conditions We Treat</h2>
                     <p class="text-sm md:text-base text-primary/95 font-medium mt-4 leading-relaxed">
-                        Specialized care for conditions where neural pathways can be realigned using Neurostar TMS therapy and integrated clinical protocols.
+                        Specialized care for conditions where neural pathways can be realigned using Neurostar® TMS therapy and integrated clinical protocols.
                     </p>
                 </div>
 
@@ -419,7 +419,7 @@ $page_description = "Schedule a free consultation for Neurostar TMS therapy at T
                             2
                         </div>
                         <h3 class="text-lg font-bold text-primary mb-2">Clinical Evaluation</h3>
-                        <p class="text-sm text-primary/90 font-medium leading-relaxed">Meet our medical director to perform brain mapping and customize your specific Neurostar TMS prescription.</p>
+                        <p class="text-sm text-primary/90 font-medium leading-relaxed">Meet our medical director to perform brain mapping and customize your specific Neurostar® TMS prescription.</p>
                     </div>
 
                     <!-- Step 3 -->
@@ -485,7 +485,7 @@ $page_description = "Schedule a free consultation for Neurostar TMS therapy at T
                                     <span class="w-1.5 h-1.5 rounded-full bg-primary"></span>Medication Management
                                 </div>
                                 <div class="flex items-center gap-2">
-                                    <span class="w-1.5 h-1.5 rounded-full bg-primary"></span>Neurostar TMS Therapy
+                                    <span class="w-1.5 h-1.5 rounded-full bg-primary"></span>Neurostar® TMS Therapy
                                 </div>
                                 <div class="flex items-center gap-2">
                                     <span class="w-1.5 h-1.5 rounded-full bg-primary"></span>Psychotherapy
@@ -516,7 +516,7 @@ $page_description = "Schedule a free consultation for Neurostar TMS therapy at T
                 <div class="max-w-3xl mx-auto bg-white border border-primary/5 p-8 md:p-12 rounded-3xl shadow-sm">
                     <h2 class="text-2xl md:text-3xl font-heading text-primary mb-4">Will My Insurance Cover TMS?</h2>
                     <p class="text-base text-primary/95 font-medium mb-8 max-w-xl mx-auto leading-relaxed">
-                        Neurostar TMS therapy is covered by **most major insurance providers** and Medicare. When you fill out the consultation form, our billing specialists will contact your provider to verify coverage at no cost to you.
+                        Neurostar® TMS therapy is covered by **most major insurance providers** and Medicare. When you fill out the consultation form, our billing specialists will contact your provider to verify coverage at no cost to you.
                     </p>
                     <div class="grid grid-cols-2 sm:grid-cols-4 gap-4 items-center justify-center max-w-2xl mx-auto opacity-95">
                         <div class="py-3 px-4 bg-cream rounded-xl text-xs font-bold text-primary border border-primary/5">Blue Cross Blue Shield</div>
@@ -547,7 +547,7 @@ $page_description = "Schedule a free consultation for Neurostar TMS therapy at T
                     <!-- Item 1 -->
                     <div class="border-b border-primary/10 overflow-hidden group">
                         <button type="button" class="accordion-header w-full py-5 text-left flex justify-between items-center bg-transparent hover:text-primary transition-colors focus:outline-none">
-                            <span class="text-lg font-bold text-primary group-hover:text-primary transition-colors">Is Neurostar TMS therapy painful?</span>
+                            <span class="text-lg font-bold text-primary group-hover:text-primary transition-colors">Is Neurostar® TMS therapy painful?</span>
                             <svg class="w-5 h-5 text-primary group-hover:text-primary transform transition-transform duration-300 flex-shrink-0 ml-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M9 5l7 7-7 7"></path>
                             </svg>
@@ -562,7 +562,7 @@ $page_description = "Schedule a free consultation for Neurostar TMS therapy at T
                     <!-- Item 2 -->
                     <div class="border-b border-primary/10 overflow-hidden group">
                         <button type="button" class="accordion-header w-full py-5 text-left flex justify-between items-center bg-transparent hover:text-primary transition-colors focus:outline-none">
-                            <span class="text-lg font-bold text-primary group-hover:text-primary transition-colors">Does insurance cover Neurostar TMS?</span>
+                            <span class="text-lg font-bold text-primary group-hover:text-primary transition-colors">Does insurance cover Neurostar® TMS?</span>
                             <svg class="w-5 h-5 text-primary group-hover:text-primary transform transition-transform duration-300 flex-shrink-0 ml-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M9 5l7 7-7 7"></path>
                             </svg>
@@ -599,7 +599,7 @@ $page_description = "Schedule a free consultation for Neurostar TMS therapy at T
                         </button>
                         <div class="accordion-content max-h-0 overflow-hidden transition-all duration-300 ease-in-out">
                             <p class="pb-6 text-primary font-medium leading-relaxed text-sm md:text-base">
-                                Neurostar TMS is extremely well-tolerated. The most common side effect is mild scalp discomfort during the first few sessions, which typically resolves quickly. Unlike medications, there are no systemic side effects like weight gain, drowsiness, or sexual dysfunction.
+                                Neurostar® TMS is extremely well-tolerated. The most common side effect is mild scalp discomfort during the first few sessions, which typically resolves quickly. Unlike medications, there are no systemic side effects like weight gain, drowsiness, or sexual dysfunction.
                             </p>
                         </div>
                     </div>

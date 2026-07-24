@@ -1,6 +1,6 @@
 <?php
 $page_title = "Thank You - Tranquil Minds Mental Health";
-$page_description = "Thank you for your interest in Neurostar TMS therapy. A clinical coordinator will reach out shortly.";
+$page_description = "Thank you for your interest in Neurostar® TMS therapy. A clinical coordinator will reach out shortly.";
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -103,7 +103,7 @@ $page_description = "Thank you for your interest in Neurostar TMS therapy. A cli
             <h1 class="text-3xl sm:text-4xl font-heading text-primary mb-4 leading-tight">Request Received!</h1>
             <!-- Message -->
             <p class="text-sm sm:text-base text-primary/80 leading-relaxed mb-8 font-medium">
-                Thank you for reaching out to Tranquil Minds Mental Health. A clinical coordinator will review your information and call you at the phone number provided within 24 hours to schedule your free Neurostar TMS consultation.
+                Thank you for reaching out to Tranquil Minds Mental Health. A clinical coordinator will review your information and call you at the phone number provided within 24 hours to schedule your free Neurostar® TMS consultation.
             </p>
             <!-- CTA Button -->
             <a href="index.php" class="inline-block w-full py-4 bg-primary hover:bg-primary/95 text-white font-bold rounded-xl shadow-lg shadow-primary/15 transition-all text-base text-center">
