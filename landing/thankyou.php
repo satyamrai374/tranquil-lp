@@ -131,7 +131,7 @@ $page_description = "Thank you for your interest in Neurostar TMS therapy. A cli
                         <span class="hidden sm:inline text-white/20">|</span>
                         <span>Fax: 855-239-8566</span>
                     </div>
-                    <a href="mailto:referrals@tranquilmindsmentalhealth.com" class="text-purple-300 hover:text-purple-200 transition-colors block">referrals@tranquilmindsmentalhealth.com
+                    <a href="mailto:roxannedpmhnp@gmail.com" class="text-purple-300 hover:text-purple-200 transition-colors block">roxannedpmhnp@gmail.com
                     </a>
                 </div>
                 <!-- Action -->

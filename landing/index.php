@@ -137,7 +137,7 @@ $page_description = "Schedule a free consultation for Neurostar TMS therapy at T
                 <div class="space-y-1">
                     <a href="tel:+16124298280" class="block text-primary font-bold">612-429-8280</a>
                     <p>Fax: 855-239-8566</p>
-                    <a href="mailto:referrals@tranquilmindsmentalhealth.com" class="block text-primary hover:underline break-all">referrals@tranquilmindsmentalhealth.com
+                    <a href="mailto:roxannedpmhnp@gmail.com" class="block text-primary hover:underline break-all">roxannedpmhnp@gmail.com
                     </a>
                 </div>
             </div>
@@ -644,7 +644,7 @@ $page_description = "Schedule a free consultation for Neurostar TMS therapy at T
                         <span class="hidden sm:inline text-white/20">|</span>
                         <span>Fax: 855-239-8566</span>
                     </div>
-                    <a href="mailto:referrals@tranquilmindsmentalhealth.com" class="text-purple-300 hover:text-purple-200 transition-colors block">referrals@tranquilmindsmentalhealth.com
+                    <a href="mailto:roxannedpmhnp@gmail.com" class="text-purple-300 hover:text-purple-200 transition-colors block">roxannedpmhnp@gmail.com
                     </a>
                 </div>
                 <!-- Action -->
