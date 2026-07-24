@@ -118,7 +118,10 @@ $page_description = "Thank you for your interest in Neurostar® TMS therapy. A c
             <div class="grid grid-cols-1 md:grid-cols-3 gap-8 items-center border-b border-white/5 pb-8 mb-8">
                 <!-- Brand -->
                 <div class="text-center md:text-left">
-                    <img src="../landing/assets/logo/Tranquil-logo.png" alt="Tranquil Minds Logo" class="h-8 mx-auto md:mx-0 opacity-80 filter brightness-0 invert mb-3">
+                    <a href="index.php" class="flex items-center justify-center md:justify-start gap-1.5 md:gap-3 mb-3 group">
+                        <img src="../landing/assets/logo/Tranquil-logo.png" alt="Tranquil Minds Logo" class="h-8 md:h-12 w-auto object-contain opacity-80 filter brightness-0 invert group-hover:opacity-100 transition-opacity">
+                        <span class="font-heading text-white font-bold text-base md:text-2xl tracking-tight leading-none group-hover:text-purple-300 transition-colors">Tranquil Minds</span>
+                    </a>
                     <p class="leading-relaxed">Realigning the rhythms of the mind.</p>
                 </div>
                 <!-- Contact Info -->
